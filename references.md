@@ -1,3 +1,3 @@
-# References
-
-* octocat 1 😈
+Test to make
+conflicts
+in a newly added file
